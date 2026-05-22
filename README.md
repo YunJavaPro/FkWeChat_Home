@@ -1,4 +1,4 @@
-# 🚀 FkWeChat - 微信增强模块官网
+# FkWeChat
 
 这是 **FkWeChat** 的官方展示网站，基于 React + Vite + Tailwind CSS 4 构建。
 
