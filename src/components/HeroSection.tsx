@@ -18,8 +18,7 @@ export default function HeroSection({ typingText }: HeroSectionProps) {
       </h2>
 
       <p className="text-xs sm:text-sm md:text-base text-[var(--md-text-secondary)] max-w-2xl mx-auto leading-relaxed px-2">
-        FkWeChat (微信 Xposed 增强模块) 是专为高级极客搭载的原生代理增强插件。
-        支持<strong>无感抢红包</strong>、<strong>全局消息防撤回</strong>、<strong>头像强制圆度改造</strong>，全面摒弃冗长AI垃圾，给您最纯粹、高可靠的微信用武之地。
+        FkWeChat 基于 Xposed 框架开发的微信增强模块，提供<strong>自动抢红包</strong>、<strong>消息防撤回</strong>、<strong>自定义UI</strong>等丰富功能，让您的微信体验更上一层楼。
       </p>
 
       <div className="flex flex-wrap justify-center items-center gap-3 pt-3 px-4">

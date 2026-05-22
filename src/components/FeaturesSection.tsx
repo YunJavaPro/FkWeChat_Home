@@ -122,10 +122,10 @@ export default function FeaturesSection({
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 text-xs sm:text-sm text-[var(--md-text-secondary)] leading-relaxed">
           <p>
-            <strong>1. 绝不保存任何隐私</strong>：本模块读取的聊天消息、图片等数据仅用于本地功能展示，不会私自传输、收集或泄露任何个人信息。
+            <strong>不保存任何隐私</strong>：本模块读取的聊天消息、图片等数据仅用于本地功能展示，不会私自传输、收集或泄露任何个人信息。
           </p>
           <p>
-            <strong>2. 架构精简优化</strong>：精简模块运行流程，减少资源占用，在不影响主程序的前提下稳定提供拓展服务。
+            <strong>架构精简优化</strong>：精简模块运行流程，减少资源占用，在不影响主程序的前提下稳定提供拓展服务。
           </p>
         </div>
       </div>

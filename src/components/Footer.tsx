@@ -39,7 +39,7 @@ export default function Footer() {
 
           <div className="text-center">
             <div className="text-sm font-medium text-[var(--md-text-primary)] mb-1">
-              by 雲上升 · 无限上升
+              by 雲上升 · 无限攀升
             </div>
             <div className="text-xs text-[var(--md-text-muted)]">
               © 2026 FkWeChat · WeChat Xposed Module

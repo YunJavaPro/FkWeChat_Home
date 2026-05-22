@@ -6,7 +6,7 @@ export default function PluginsSection() {
       <div className="p-5 sm:p-6 bg-[var(--md-card-bg)]/60 dark:bg-[var(--md-card-bg)] border border-[var(--md-outline)]/20 dark:border-white/10 rounded-3xl relative overflow-hidden">
         <h3 className="text-lg sm:text-xl font-bold text-[var(--md-text-primary)] flex items-center gap-2 mb-2">
           <Code2 className="w-5 h-5 sm:w-5.5 sm:h-5.5 text-[var(--md-primary)] shrink-0" />
-          BeanShell 插件系统
+          插件框架
         </h3>
         <p className="text-xs sm:text-sm text-[var(--md-text-secondary)] leading-relaxed max-w-4xl">
           FkWeChat 是一款基于 Xposed 框架的微信增强模块，提供了丰富的插件系统，允许开发者使用 BeanShell 脚本扩展微信功能。
