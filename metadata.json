@@ -1,0 +1,6 @@
+{
+  "name": "FkWeChat",
+  "description": "FkWeChat Official Home - A premium WeChat Xposed enhancement module featuring instant Red Packet collection",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
